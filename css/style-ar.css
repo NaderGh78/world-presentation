@@ -1,0 +1,2579 @@
+body {
+    font-family: Cairo-Bold !important;
+    direction: rtl;
+}
+
+p,
+a,
+h5,
+label,
+input {
+    font-family: Cairo-Bold !important;
+}
+
+header .upper-bar .col-md-4 .lang {
+    margin-right: 4vw !important;
+}
+
+header .upper-bar ul li {
+    margin: 0 !important;
+}
+
+i.RA.rtt2 {
+    -webkit-transform: rotate(180deg);
+    -ms-transform: rotate(180deg);
+    -o-transform: rotate(180deg);
+    transform: rotate(180deg);
+}
+
+.navbar-light .navbar-nav .nav-link {
+    margin-right: 28px !important;
+}
+
+.nvb1 i.RA {
+    position: absolute !important;
+    right: 0 !important;
+    margin-top: 3px !important;
+}
+
+.nvb1 .dropdown-menu i.RA {
+    right: 3px !important;
+}
+
+.dropdown-item {
+    padding: 10px 26px !important;
+    color: rgba(0, 0, 0, .5) !important;
+    font-family: Cairo-Regular !important;
+    -webkit-transition: .4s all;
+    -ms-transition: .4s all;
+    -o-transition: .4s all;
+    transition: .4s all;
+}
+
+.dropdown-item:hover {
+    color: #000 !important;
+}
+
+.navbar-expand-lg .navbar-nav.nvb2 li.searchInpt span {
+    right: 30px !important;
+    -webkit-transform: rotate(90deg) !important;
+    -ms-transform: rotate(90deg) !important;
+    -o-transform: rotate(90deg) !important;
+    transform: rotate(90deg) !important;
+}
+
+.navbar-expand-lg .navbar-nav.nvb2 li.searchInpt .form-control.search-control {
+    left: 0 !important;
+    right: inherit !important;
+}
+
+
+.navbar-expand-lg .navbar-nav.nvb2 li span.po::before {
+    left: 57px !important;
+}
+
+.navbar-expand-lg .navbar-nav.nvb2 li i.icofont-shopping-cart {
+    margin-left: 30px !important;
+}
+
+.navbar-expand-lg .navbar-nav.nvb2 li span.po {
+    margin-right: 22px !important;
+}
+
+ul.nvb2 li:last-child {
+    -webkit-transform: rotateY(180deg) !important;
+    -ms-transform: rotateY(180deg) !important;
+    -o-transform: rotateY(180deg) !important;
+    transform: rotateY(180deg) !important;
+}
+
+.carousel-indicators {
+    right: 30% !important;
+}
+
+.carousel-control-prev-icon:after,
+.carousel-control-next-icon:after {
+    padding-right: 0 !important;
+}
+
+.carousel-item .carousel-caption h5 {
+    font-size: 36px !important;
+}
+
+.carousel-item .carousel-caption a {
+    margin-top: 10px !important;
+}
+
+.carousel-item .carousel-caption a i.RA {
+    margin-left: 8px !important;
+}
+
+header .welcome {
+    margin: 25px auto 20px !important;
+}
+
+header .welcome h3 {
+    font-family: Cairo-Bold !important;
+}
+
+header .welcome h3 span {
+    font-family: cairo-Regular !important;
+}
+
+header .WWA h3 {
+    font-family: cairo-Regular !important;
+}
+
+header .sclinks ul {
+    flex-direction: row-reverse !important;
+}
+
+main .who2,
+.the-mission {
+    padding: 0 45px !important;
+}
+
+.the-mission {
+    margin-bottom: 40px !important;
+}
+
+main .who {
+    padding: 24px 45px !important;
+}
+
+main .contact {
+    text-align: left !important;
+}
+
+main .indexLinks a.contBtn {
+    margin-left: 47px !important;
+}
+
+footer .row > .col-md {
+    text-align: right !important;
+}
+
+footer .someDetails::before {
+    content: '\eab5' !important;
+    right: -26px;
+}
+
+footer .telefone {
+    direction: ltr!important
+}
+
+footer .telefone span.phone {
+    margin-right: 13px !important;
+}
+
+footer .telefone span.phone .SM {
+    top: 1px !important;
+    left: 164px !important;
+}
+
+footer .someDetails .slfooter {
+    margin-right: 17px !important;
+}
+
+/*****************start responsive for the index page in arabic*******************/
+
+@media (max-width: 576px) {
+
+    header .upper-bar ul.nvb2 {
+        margin-right: 14px !important;
+    }
+
+    .bg-light {
+        left: 0 !important;
+        background-color: red !important;
+        top: -11px;
+    }
+
+
+    .navbar-expand-lg .navbar-collapse {
+        margin-top: 0 !important;
+    }
+
+    .navbar-nav {
+        float: none !important;
+    }
+
+    header .upper-bar ul {
+        text-align: right !important;
+        padding-right: 9px !important;
+    }
+
+    header .upper-bar ul li {
+        margin-right: 0px !important;
+    }
+
+    header .upper-bar ul.nvb2 {
+        margin-right: 7px !important;
+    }
+
+    ul.nvb2 li:last-child {
+        text-align: left !important;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        margin-right: 34px !important;
+    }
+
+    .dropdown-item {
+        padding: 10px 30px 10px 0 !important;
+    }
+
+    .navbar-light .navbar-toggler {
+        right: 92% !important;
+        top: -19px !important;
+    }
+
+    header .upper-bar .fl .lang {
+        margin-left: 12vw !important;
+        margin-top: 5px !important;
+    }
+
+    .navbar-expand-lg .navbar-nav.nvb2 li span.po {
+        margin-right: 0 !important;
+    }
+
+    .navbar-expand-lg .navbar-nav.nvb2 li {
+        margin: 1vw 0 !important;
+        padding-right: 6px !important;
+    }
+
+    header .upper-bar ul.nvb2 li:nth-child(3) i.icofont-search {
+        margin-left: -7px !important;
+    }
+
+    header .upper-bar ul.nvb2 li:nth-child(4) i.icofont-shopping-cart {
+        margin-left: 2px !important;
+    }
+
+    .navbar-expand-lg .navbar-nav.nvb2 li.searchInpt span {
+        right: 3px !important;
+        top: 6px !important;
+        -webkit-transform: rotate(0deg) !important;
+        -ms-transform: rotate(0deg) !important;
+        -o-transform: rotate(0deg) !important;
+        transform: rotate(0deg) !important;
+    }
+
+    .navbar-expand-lg .navbar-nav.nvb2 li.searchInpt .form-control.search-control {
+        right: 0 !important;
+    }
+
+    .navbar-expand-lg .navbar-nav.nvb2 li.searchInpt .input-group .form-control.inpWidth {
+        width: 100% !important;
+        padding: 2vw 10vw 2vw 10vw !important;
+    }
+
+    header .welcome {
+        margin: 20px auto 6px !important;
+    }
+
+    .carousel-item .carousel-caption {
+        width: 77% !important;
+        top: 45% !important;
+        -webkit-transform: translate(8%, -50%) !important;
+        -ms-transform: translate(8%, -50%) !important;
+        -o-transform: translate(8%, -50%) !important;
+        transform: translate(8%, -50%) !important;
+    }
+
+    .carousel-item .carousel-caption img {
+        width: 28vw !important;
+    }
+
+    .carousel-item .carousel-caption h5 {
+        font-size: 6.8vw !important;
+    }
+
+    .carousel-item .carousel-caption p {
+        font-size: 4vw !important;
+    }
+
+    .carousel-item .carousel-caption a {
+        font-size: 4vw !important;
+    }
+
+    main .who p {
+        font-size: 16px !important;
+        margin: auto !important;
+        width: 95% !important;
+    }
+
+    main .who2 p {
+        font-size: 16px !important;
+        width: 95% !important;
+        margin: auto !important;
+    }
+
+    main .the-mission p {
+        font-size: 16px !important;
+        width: 95% !important;
+        margin: auto !important;
+    }
+
+    main .who {
+        margin-top: 0 !important;
+    }
+
+    main .contact a.contBtn {
+        margin-left: 20px !important;
+    }
+
+    footer {
+        padding: 26px 35px 15px 24px !important;
+    }
+
+    footer .someDetails {
+        margin-bottom: 7px !important;
+    }
+
+    footer span.phone .SM {
+        left: 31px !important;
+    }
+
+}
+
+/*end 576*/
+
+/*************************/
+
+@media (max-width: 991px) and (min-width: 768px) {
+
+    .navbar-expand-lg .navbar-nav.nvb2 li span.po {
+        margin-right: 0 !important;
+    }
+
+    .bg-light {
+        justify-content: space-between;
+        margin-top: -7px !important;
+        width: 79vw !important;
+        right: -18vw !important;
+        top: 34px !important;
+        background: #fff !important;
+    }
+
+    .navbar-light .navbar-toggler {
+        outline: none !important;
+        margin-left: -10px !important;
+        margin-top: -50px !important;
+    }
+
+    .navbar-expand-lg .navbar-collapse {
+        background-color: #dcd8d8;
+        margin-top: 14px;
+        margin-bottom: 8px;
+    }
+
+    .navbar-expand-lg .navbar-nav .dropdown-menu {
+        min-width: 32vw;
+    }
+
+    header .upper-bar ul.nvb2 {
+        margin-top: 0 !important;
+        margin-right: 0 !important;
+    }
+
+    header .upper-bar .col-md-4 .lang {
+        position: relative !important;
+        right: 60vw !important;
+        top: 1px !important;
+    }
+
+    .the-mission {
+        margin-bottom: 30px !important;
+    }
+
+    .navbar-nav {
+        float: none !important;
+    }
+
+    header .upper-bar ul {
+        text-align: right !important;
+    }
+
+    header .upper-bar ul li {
+        margin-right: 0px !important;
+    }
+
+    header .upper-bar ul.nvb2 {
+        margin-top: 0 !important;
+        margin-right: 7px !important;
+    }
+
+    .nvb2 {
+        margin-left: 0 !important;
+    }
+
+    .navbar-expand-lg .navbar-collapse {
+        background-color: #dcd8d8;
+        margin-top: 14px !important;
+        margin-bottom: 8px !important;
+    }
+
+    header .upper-bar ul.nvb2 li {
+        padding: 0 6px !important;
+        margin: 6px 0 !important;
+    }
+
+    ul.nvb2 li:last-child {
+        text-align: left !important;
+        margin-top: 10px !important;
+    }
+
+
+    .navbar-expand-lg .navbar-nav.nvb2 li.searchInpt span {
+        right: 3px !important;
+        top: 6px !important;
+        -webkit-transform: rotate(0deg) !important;
+        -ms-transform: rotate(0deg) !important;
+        -o-transform: rotate(0deg) !important;
+        transform: rotate(0deg) !important;
+    }
+
+    .navbar-expand-lg .navbar-nav.nvb2 li.searchInpt .form-control.search-control {
+        right: 0 !important;
+    }
+
+    .navbar-expand-lg .navbar-nav.nvb2 li.searchInpt .input-group .form-control.inpWidth {
+        width: 100% !important;
+    }
+
+    header .welcome {
+        margin: 25px auto 0px !important;
+    }
+
+    .carousel-item .carousel-caption {
+        top: 47% !important;
+        width: 70% !important;
+        -webkit-transform: translate(7%, -50%) !important;
+        -ms-transform: translate(7%, -50%) !important;
+        -o-transform: translate(7%, -50%) !important;
+        transform: translate(7%, -50%) !important;
+    }
+
+    .carousel-item .carousel-caption h5 {
+        font-size: 32px !important;
+    }
+
+    .carousel-item .carousel-caption p {
+        font-size: 20px !important;
+    }
+
+    .carousel-item .carousel-caption a {
+        font-size: 18px !important;
+    }
+
+    main .who {
+        margin-top: 10px !important;
+    }
+
+    main .who p {
+        font-size: 16px !important;
+        margin: auto !important;
+        width: 95% !important;
+    }
+
+    main .who2 p {
+        font-size: 16px !important;
+        width: 95% !important;
+        margin: auto !important;
+    }
+
+    main .the-mission p {
+        font-size: 16px !important;
+        width: 95% !important;
+        margin: auto !important;
+    }
+
+    main .ourTeam {
+        margin-bottom: 0 !important;
+    }
+
+    main .the-mission h3 {
+        margin: 10px 0 !important;
+    }
+
+    main .indexLinks a.contBtn {
+        margin-left: 23px !important;
+    }
+
+    footer {
+        padding: 26px 35px 15px 24px !important;
+    }
+
+    footer .someDetails p {
+        padding: 0 5px !important;
+    }
+
+    footer span.phone .SM {
+        left: 31px !important;
+    }
+
+}
+
+/*end 768*/
+
+/********************************/
+
+@media(max-width: 1024px) and (min-width: 992px) {
+
+    .navbar-expand-lg .navbar-nav.nvb2 li span.po {
+        margin-right: 18px !important;
+    }
+
+    .navbar-expand-lg .navbar-nav.nvb2 li span.po::before {
+        left: 55px !important;
+        top: 3px !important;
+    }
+
+    header .upper-bar ul.nvb2 li:nth-child(4) i.icofont-shopping-cart {
+        margin-right: 10px !important;
+    }
+
+    .navbar-expand-lg .navbar-nav.nvb2 li.searchInpt span {
+        right: 27px !important;
+        top: 2px !important;
+    }
+
+    .navbar-expand-lg .navbar-nav.nvb2 li.searchInpt .input-group .form-control.inpWidth {
+        width: 200px !important;
+    }
+
+    .carousel-item .carousel-caption {
+        top: 43% !important;
+        width: 70% !important;
+        -webkit-transform: translate(7%, -50%) !important;
+        -ms-transform: translate(7%, -50%) !important;
+        -o-transform: translate(7%, -50%) !important;
+        transform: translate(7%, -50%) !important;
+    }
+
+    .carousel-item .carousel-caption h5 {
+        font-size: 36px !important;
+    }
+
+    .carousel-item .carousel-caption p {
+        font-size: 25px !important;
+    }
+
+    .carousel-item .carousel-caption a {
+        font-size: 21px !important;
+    }
+
+    header .welcome {
+        margin: 25px auto 0px !important;
+    }
+
+    .the-mission {
+        margin-bottom: 30px;
+    }
+
+    main .who {
+        margin-top: 10px !important;
+    }
+
+    main .who p {
+        font-size: 16px !important;
+        margin: auto !important;
+        width: 95% !important;
+    }
+
+    main .who2 p {
+        font-size: 16px !important;
+        width: 95% !important;
+        margin: auto !important;
+    }
+
+    main .the-mission p {
+        font-size: 16px !important;
+        width: 95% !important;
+        margin: auto !important;
+    }
+
+    main .ourTeam {
+        margin-bottom: 0 !important;
+    }
+
+    main .the-mission h3 {
+        margin: 10px 0 !important;
+    }
+
+    main .indexLinks a.contBtn {
+        margin-left: 23px !important;
+    }
+
+    footer {
+        padding: 26px 50px 15px 24px !important;
+    }
+
+}
+
+/*end 1024*/
+
+/*****************end responsive for the index page in arabic*******************/
+
+/*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+/*start thankU page*/
+
+#thankU .nvb2 {
+    margin-left: -16px !important;
+}
+
+#thankU .navbar-expand-lg .navbar-nav.nvb2 li span.po::before {
+    left: 61px !important;
+    top: -2px !important;
+}
+
+#thankU main .weAreSorry .Sorry a {
+    margin-right: 35px !important;
+}
+
+/*****************start responsive for the thankU page in arabic*******************/
+
+@media (max-width: 576px) {
+
+    #thankU header .upper-bar ul.nvb2 {
+        margin: 0 4% 3.9% 6px !important;
+    }
+
+    #thankU main.circle {
+        margin: 20px 0 60px !important;
+    }
+
+}
+
+/*end 576*/
+
+/*++++++++++++++++++++++++++*/
+
+@media(max-width: 1024px) and (min-width: 992px) {
+
+    #thankU .nvb2 {
+        margin-left: -27px !important;
+    }
+
+    #thankU .navbar-expand-lg .navbar-nav.nvb2 li span.po::before {
+        left: 60px !important;
+        top: -2px !important;
+    }
+
+}
+
+/*end 1024*/
+
+/*****************end responsive for the thankU page in arabic*******************/
+
+/*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+/*start declined page*/
+
+#declined .nvb2 {
+    margin-left: -16px !important;
+}
+
+#declined .navbar-expand-lg .navbar-nav.nvb2 li span.po::before {
+    left: 61px !important;
+    top: -2px;
+}
+
+/*****************start responsive for the declined page in arabic*******************/
+
+@media (max-width: 576px) {
+
+    #declined header .upper-bar ul.nvb2 {
+        margin: 0 4% 3.9% 6px !important;
+    }
+
+    #declined main.circle {
+        margin: 60px 0 !important;
+    }
+
+    #declined main.circle .weAreSorry .Sorry p {
+        font-size: 3vw !important;
+    }
+
+}
+
+/*end 576*/
+
+/*++++++++++++++++++++++++++*/
+
+@media(max-width: 1024px) and (min-width: 992px) {
+
+    #declined .nvb2 {
+        margin-left: -27px !important;
+    }
+
+    #declined .navbar-expand-lg .navbar-nav.nvb2 li span.po::before {
+        left: 60px !important;
+        top: -2px !important;
+    }
+
+}
+
+/*end 768*/
+
+/*****************end responsive for the declined page in arabic*******************/
+
+/*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+/*start Sign page*/
+
+@media (max-width: 576px) {
+
+    #Sign .welcome {
+        margin-top: 0 !important;
+    }
+
+}
+
+/*****************end responsive for the Sign page in arabic*******************/
+
+/*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+/*start Signup page*/
+
+#Signup .nvb2 {
+    margin-left: -16px !important;
+}
+
+#Signup .navbar-expand-lg .navbar-nav.nvb2 li span.po::before {
+    left: 61px !important;
+    top: -2px;
+}
+
+/*****************start responsive for the Signup page in arabic*******************/
+
+@media (max-width: 576px) {
+
+    #Signup header .upper-bar ul.nvb2 {
+        margin: 0 4% 3.9% 6px !important;
+    }
+
+    #Signup .welcome {
+        margin-top: 0 !important;
+    }
+
+}
+
+/*end 576*/
+
+/*++++++++++++++++++++++++++*/
+
+@media(max-width: 1024px) and (min-width: 992px) {
+
+    #Signup .nvb2 {
+        margin-left: -27px !important;
+    }
+
+    #Signup .navbar-expand-lg .navbar-nav.nvb2 li span.po::before {
+        left: 60px !important;
+        top: -2px !important;
+    }
+
+}
+
+/*end 1024*/
+
+/*****************end responsive for the Signup page in arabic*******************/
+
+/*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+/*start editProfile page*/
+
+#editProfile .nvb2 {
+    margin-left: -16px !important;
+}
+
+#editProfile .navbar-expand-lg .navbar-nav.nvb2 li span.po::before {
+    left: 61px !important;
+    top: -2px !important;
+}
+
+#editProfile main .editYourInfo {
+    margin: 40px auto 0 !important;
+}
+
+#editProfile main .editYourInfo .editHead a {
+    margin-left: 33px !important;
+}
+
+#editProfile main .editYourInfo .editHead a.contBtn {
+    margin-left: 0 !important;
+    line-height: 44px !important;
+}
+
+#editProfile main .editYourInfo .editHead .row > .col-md-6:nth-child(1) {
+    text-align: right!important;
+}
+
+#editProfile main .editYourInfo .editHead .row > .col-md-6:nth-child(2) {
+    text-align: left !important;
+}
+
+#editProfile main .editYourInfo .profileForm label {
+    font-size: 17px !important;
+}
+
+#editProfile .end {
+    text-align: left !important;
+}
+
+/*****************start responsive for the thankU page in arabic*******************/
+
+@media (max-width: 576px) {
+
+    #editProfile header .upper-bar ul.nvb2 {
+        margin: 0 4% 3.9% 6px !important;
+    }
+
+    #editProfile .welcome {
+        margin-top: 28px !important;
+    }
+
+    #editProfile .welcome h3 {
+        font-size: 6vw !important;
+    }
+
+    #editProfile main .editYourInfo {
+        width: 80% !important;
+    }
+
+    #editProfile main .editYourInfo .profileForm input {
+        font-size: 4vw !important;
+    }
+
+    #editProfile main .editYourInfo .editHead a {
+        font-size: 4vw !important;
+        margin-left: 0 !important;
+    }
+
+    #editProfile main .editYourInfo .editHead a.contBtn {
+        font-size: 2.5vw !important;
+        line-height: 10vw !important;
+        top: -3vw;
+    }
+
+    #editProfile main .editYourInfo .profileForm label {
+        font-size: 4vw !important;
+    }
+
+}
+
+/*end 576*/
+
+/*************************/
+
+@media (max-width: 991px) and (min-width: 768px) {
+
+    #editProfile main .editYourInfo {
+        width: 55% !important;
+    }
+
+    #editProfile main .editYourInfo .profileForm label {
+        font-size: 17px !important;
+    }
+
+    #editProfile main .editYourInfo {
+        width: 50% !important;
+        margin: 0 auto 0 !important;
+    }
+
+    #editProfile main .editYourInfo .profileForm input {
+        width: 76% !important;
+    }
+
+    #editProfile main .editYourInfo .profileForm input[type='tel'] {
+        width: 66% !important;
+    }
+
+}
+
+/*end 768*/
+
+/*************************/
+
+@media(max-width: 1024px) and (min-width: 992px) {
+
+    #editProfile .nvb2 {
+        margin-left: -27px !important;
+    }
+
+    #editProfile .navbar-expand-lg .navbar-nav.nvb2 li span.po::before {
+        left: 60px !important;
+        top: -2px !important;
+    }
+
+    #editProfile main .editYourInfo {
+        width: 40% !important;
+        margin: 0 auto 0 !important;
+    }
+
+    #editProfile main .editYourInfo .profileForm input {
+        width: 76% !important;
+    }
+
+    #editProfile main .editYourInfo .profileForm input[type='tel'] {
+        width: 66% !important;
+    }
+
+}
+
+/*end 1024*/
+
+/*****************end responsive for the editProfile page in arabic*******************/
+
+/*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+/*start forgotPsw page*/
+
+#forgotPsw .nvb2 {
+    margin-left: -16px !important;
+}
+
+#forgotPsw .navbar-expand-lg .navbar-nav.nvb2 li span.po::before {
+    left: 61px !important;
+    top: -2px;
+}
+
+#forgotPsw main.circle .weAreSorry .Sorry p {
+    font-family: cairo-SemiBold !important;
+}
+
+/*****************start responsive for the forgotPsw page in arabic*******************/
+
+@media (max-width: 576px) {
+    #forgotPsw header .upper-bar ul.nvb2 {
+        margin: 0 4% 3.9% 6px !important;
+    }
+}
+
+/*end 576*/
+
+/*++++++++++++++++++++++++++*/
+
+@media(min-width: 992px) and (max-width: 1024px) {
+    #forgotPsw .nvb2 {
+        margin-left: -27px !important;
+    }
+
+    #forgotPsw .navbar-expand-lg .navbar-nav.nvb2 li span.po::before {
+        left: 60px !important;
+        top: -2px !important;
+    }
+
+}
+
+/*end 1024*/
+
+/*****************end responsive for the forgotPsw page in arabic*******************/
+
+/*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+/*start contact page*/
+
+#contact header .welcome {
+    margin: 25px auto 45px !important;
+}
+
+#contact .nvb2 {
+    margin-left: -16px !important;
+}
+
+#contact .navbar-expand-lg .navbar-nav.nvb2 li span.po::before {
+    left: 61px !important;
+    top: -2px !important;
+}
+
+#contact main {
+    margin-top: 55px !important;
+}
+
+#contact main .allContacts .formContact {
+    margin-top: 20px !important;
+}
+
+#contact main .allContacts .formContact form .form-group {
+    text-align: right !important;
+}
+
+#contact main .morInfoAddre .locateMsg {
+    margin-top: 2px !important;
+    text-align: right !important;
+}
+
+#contact main .morInfoAddre .locateMsg h3::before {
+    content: '\eab5' !important;
+    right: -21px !important;
+}
+
+#contact main .row > .offset-md-1 {
+    margin-right: 8.333333% !important;
+    margin-left: 0 !important;
+}
+
+#contact main .morInfoAddre .firstInfoAdd > .row .text-right {
+    text-align: left !important;
+}
+
+#contact main .morInfoAddre .firstInfoAdd:nth-child(2) {
+    text-align: right !important;
+}
+
+#contact main .morInfoAddre .firstInfoAdd .ourSmLinks li a .SM {
+    left: 10px !important;
+}
+
+#contact main .morInfoAddre .firstInfoAdd .ourSmLinks h3::before {
+    content: '\eab5' !important;
+    top: 14px !important;
+    right: -19px !important;
+}
+
+#contact main .morInfoAddre .firstInfoAdd p {
+    margin-top: 14px !important;
+}
+
+#contact main .morInfoAddre .firstInfoAdd span.phone {
+    margin-right: 5px !important;
+    direction: ltr !important;
+}
+
+#contact main .morInfoAddre .firstInfoAdd span.phone i {
+    margin-left: 10px !important;
+    left: 147px !important;
+}
+
+#contact main .morInfoAddre .firstInfoAdd .ourSmLinks {
+    margin-top: 15px !important;
+}
+
+#contact main .morInfoAddre .firstInfoAdd .ourSmLinks h3 {
+    padding-right: 5px !important;
+}
+
+#contact main .morInfoAddre .firstInfoAdd .ourSmLinks ul > li:nth-child(3) a {
+    margin-right: 30px !important;
+    direction: ltr !important;
+}
+
+#contact main .morInfoAddre .firstInfoAdd .ourSmLinks ul > li:nth-child(3) a i {
+    left: 156px !important;
+}
+
+/*****************start responsive for the contact page in arabic*******************/
+
+@media (max-width: 576px) {
+
+    #contact header .upper-bar ul.nvb2 {
+        margin: 0 4% 3.9% 6px !important;
+    }
+
+    #contact main {
+        margin-top: 35px !important;
+    }
+
+    #contact main .allContacts .formContact form label,
+    #contact main .allContacts .formContact form label span {
+        font-size: 4vw !important;
+    }
+
+    #contact main .morInfoAddre .firstInfoAdd .map {
+        width: 94% !important;
+    }
+
+}
+
+/*end 576px*/
+
+/*++++++++++++++++++++++++++*/
+
+@media (max-width: 991px) and (min-width: 768px) {
+
+    #contact main .container {
+        margin-top: 25px !important;
+    }
+
+    #contact main .morInfoAddre .firstInfoAdd img {
+        width: 35% !important;
+        max-width: 35% !important;
+        height: auto;
+    }
+
+    #contact main .morInfoAddre .firstInfoAdd p {
+        font-size: 15px !important;
+    }
+
+    #contact main .morInfoAddre .firstInfoAdd .map {
+        width: 100% !important;
+    }
+
+    #contact main .morInfoAddre .firstInfoAdd .ourSmLinks li a {
+        font-size: 13px !important;
+    }
+
+    #contact main .morInfoAddre .firstInfoAdd .ourSmLinks ul > li:nth-child(3) a {}
+
+    #contact main .morInfoAddre .firstInfoAdd .ourSmLinks ul > li:nth-child(3) a i {
+        left: 129px !important;
+    }
+
+}
+
+/*end 768px*/
+
+/*************************/
+
+@media(min-width: 992px) and (max-width: 1024px) {
+
+    #contact .nvb2 {
+        margin-left: -27px !important;
+    }
+
+    #contact .navbar-expand-lg .navbar-nav.nvb2 li span.po::before {
+        left: 60px !important;
+        top: -2px !important;
+    }
+
+    #contact main .container {
+        margin-top: 25px !important;
+    }
+
+    #contact main .morInfoAddre .firstInfoAdd .map {
+        width: 100% !important;
+    }
+
+}
+
+/*end 1024px*/
+
+/*****************end responsive for the contact page in arabic*******************/
+
+/*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+/*start Sub page*/
+
+#Sub .nvb2 {
+    margin-left: -16px !important;
+}
+
+#Sub .navbar-expand-lg .navbar-nav.nvb2 li span.po::before {
+    left: 61px !important;
+    top: -2px;
+}
+
+#Sub .horizLigne .shpBtn {
+    left: -90.1% !important;
+    top: 29px !important;
+}
+
+#Sub main {
+    margin-top: 70px !important;
+}
+
+#Sub main .productAndPrice .row > .offset-md-1 {
+    margin-right: 8.333333% !important;
+    margin-left: 0 !important;
+}
+
+#Sub main .productAndPrice .quantAndPrice {
+    text-align: right !important;
+}
+
+#Sub main .productAndPrice .addToCart {
+    text-align: left !important;
+}
+
+#Sub main .productAndPrice .addToCart a.contBtn {
+    margin-left: 0 !important;
+    margin-top: 3px !important;
+}
+
+#Sub main .productAndPrice .quantAndPrice ul > li i {
+    margin-left: 10px !important;
+}
+
+#Sub main .productAndPrice .quantAndPrice ul li p {
+    margin-right: -8px !important;
+    margin-bottom: 49px !important;
+    font-family: cairo-SemiBold !important;
+    word-break: break-word;
+}
+
+#Sub main .productAndPrice span {
+    margin-right: 5px;
+}
+
+#Sub main .productAndPrice .bottomContent h5 {}
+
+#Sub main .productAndPrice .bottomContent i {
+    margin-left: 10px !important;
+}
+
+#Sub main .productAndPrice input[type='number'] {
+    margin-left: 0 !important;
+    margin-right: 9px !important;
+    width: 32% !important;
+}
+
+#Sub main .productAndPrice .similar .similarInfo {
+    text-align: right !important;
+}
+
+#Sub main .productAndPrice .similar .similarInfo::after {
+    right: 165px !important;
+}
+
+#Sub main .ourTeamInfo a.shpBtn {
+    margin-right: 40px !important;
+}
+
+#Sub main .ourTeamInfo a.contBtn {
+    margin-right: 0 !important;
+}
+
+#Sub main .ourTeamInfo a:last-of-type i {
+    margin-left: 10px !important;
+}
+
+/*****************start responsive for the Sub page in arabic*******************/
+
+@media (max-width: 576px) {
+
+    #Sub header .upper-bar ul.nvb2 {
+        margin: 0 4% 3.9% 6px !important;
+    }
+
+    #Sub header .welcome {
+        margin: 29px auto 57px !important;
+    }
+
+    #Sub .horizLigne .shpBtn {
+        left: -64vw !important;
+        top: 37px !important;
+    }
+
+    #Sub main {
+        margin-bottom: 46px !important;
+    }
+
+    #Sub main .productAndPrice {
+        margin-top: 124px !important;
+    }
+
+    #Sub main .productAndPrice .quantAndPrice ul li p {
+        margin-right: 10px !important;
+        font-size: 3.5vw !important;
+        word-break: break-word;
+        margin-bottom: 15px !important;
+    }
+
+    #Sub main .productAndPrice .row > .offset-md-1 {
+        margin-right: 0 !important;
+    }
+
+    #Sub main .productAndPrice input[type='number'] {
+        width: 28% !important;
+    }
+
+    #Sub main .productAndPrice .similar .similarInfo::after {
+        right: 37vw !important;
+    }
+
+}
+
+/*end 576*/
+
+/*************************/
+
+@media(max-width: 992px) and (min-width: 768px) {
+
+    #Sub .horizLigne .shpBtn {
+        left: -84.3% !important;
+    }
+
+    #Sub main {
+        margin-bottom: 25px !important;
+    }
+
+    #Sub main .productAndPrice .quantAndPrice ul li p {
+        margin-right: -2vw !important;
+        width: 34vw !important;
+        word-break: break-word;
+    }
+
+    #Sub main .productAndPrice input[type='number'] {
+        margin-left: 0 !important;
+        margin-right: 9px !important;
+        width: 28% !important;
+    }
+
+}
+
+/*end 768*/
+
+/*************************/
+
+@media(max-width: 1024px) and (min-width: 992px) {
+
+    #Sub .nvb2 {
+        margin-left: -27px !important;
+    }
+
+    #Sub .navbar-expand-lg .navbar-nav.nvb2 li span.po::before {
+        left: 60px !important;
+        top: -2px !important;
+    }
+
+    #Sub .horizLigne .shpBtn {
+        left: -88.3% !important;
+    }
+
+    #Sub main {
+        margin-bottom: 25px !important;
+    }
+
+    #Sub main .productAndPrice .quantAndPrice ul li p {
+        margin-right: -7vw !important;
+        word-break: break-word;
+        width: 41vw !important;
+    }
+
+    #Sub main .productAndPrice input[type='number'] {
+        margin-left: 0 !important;
+        margin-right: 9px !important;
+        width: 28% !important;
+    }
+
+}
+
+/*end 1024*/
+
+/*****************end responsive for the Sub page in arabic*******************/
+
+/*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+/*start shop page*/
+
+#shop .nvb2 {
+    margin-left: -16px !important;
+}
+
+#shop .navbar-expand-lg .navbar-nav.nvb2 li span.po::before {
+    left: 61px !important;
+    top: -2px;
+}
+
+#shop .horizLigne .shpBtn {
+    left: -90.1% !important;
+    top: 28px !important;
+}
+
+#shop main {
+    margin-top: 66px !important;
+}
+
+#shop main .productAndPrice .quantAndPrice {
+    text-align: right !important;
+}
+
+#shop main .productAndPrice hr {
+    margin-top: .5rem !important;
+}
+
+#shop main .productAndPrice .quantAndPrice ul li h5 {
+    margin-left: 0 !important;
+}
+
+#shop main .productAndPrice .quantAndPrice ul li span {
+    margin-right: 5px !important;
+}
+
+#shop main .productAndPrice .quantAndPrice ul > li i {
+    margin-left: 10px !important;
+}
+
+#shop main .productAndPrice .quantAndPrice ul li label {
+    margin-right: 0 !important;
+}
+
+#shop main .productAndPrice .quantAndPrice ul li p {
+    margin-bottom: 49px !important;
+    margin-right: 12px !important;
+    font-family: cairo-SemiBold !important;
+    word-break: break-word;
+}
+
+#shop main .productAndPrice input[type='number'] {
+    width: 8% !important;
+}
+
+#shop main .productAndPrice .productFoto {
+    text-align: right !important;
+}
+
+#shop main .productAndPrice .bottomContent a.shpBtn {
+    margin-top: 0 !important;
+}
+
+#shop main .productAndPrice .bottomContent {
+    margin-bottom: 0 !important;
+    margin-top: 0 !important;
+}
+
+#shop main .productAndPrice .bottomContent h5 i {
+    margin-right: 8px !important;
+    margin-left: 9px !important;
+}
+
+#shop main .productAndPrice .bottomContent span {
+    margin-right: 10px !important;
+}
+
+#shop main .productAndPrice:nth-child(3) .bottomContent {
+    margin-top: 0 !important;
+}
+
+#shop main .productAndPrice:nth-child(3) .bottomContent a.shpBtn {
+    margin-top: 1px !important;
+}
+
+#shop main .productAndPrice:nth-child(3) hr {}
+
+#shop main .productAndPrice:nth-child(3) .text-right {
+    text-align: left!important;
+}
+
+#shop main .productAndPrice:nth-child(3) h5 {
+    margin-left: 35px !important;
+}
+
+#shop main .productAndPrice:nth-child(3) h5 i {
+    margin-left: 10px !important;
+}
+
+#shop main .productAndPrice:nth-child(3) a.contBtn {
+    margin-left: 0 !important;
+    margin-top: 1px !important;
+}
+
+#shop main .productAndPrice label {
+    margin-right: 12px !important;
+}
+
+#shop main .productAndPrice input[type='checkbox']:checked:after {
+    right: -16px !important;
+}
+
+#shop main .productAndPrice .checkSometing {
+    margin-top: -7px !important;
+}
+
+/*****************start responsive for the shop page in arabic*******************/
+
+@media (max-width: 576px) {
+
+    #shop header .upper-bar ul.nvb2 {
+        margin: 0 4% 3.9% 6px !important;
+    }
+
+    #shop header .welcome {
+        margin: 10px auto 50px !important;
+    }
+
+    #shop .horizLigne .shpBtn {
+        left: -64vw !important;
+        top: 39px !important;
+    }
+
+    #shop main {}
+
+    #shop main .productAndPrice {
+        padding: 0 10px !important;
+    }
+
+    #shop main .productAndPrice .quantAndPrice ul li p {
+        margin-right: 10px !important;
+        margin-bottom: 25px !important;
+        font-size: 3.5vw !important;
+        word-break: break-word;
+    }
+
+    #shop main .productAndPrice .row > .offset-md-1 {
+        margin-right: 0 !important;
+    }
+
+    #shop main .productAndPrice:nth-child(3) h5 {
+        margin-left: 4vw !important;
+    }
+
+    #shop main .productAndPrice label {
+        font-size: 4vw !important;
+        margin-right: 2vw !important;
+    }
+
+    #shop main .productAndPrice input[type='checkbox']:checked:after {
+        right: -3.8vw !important;
+    }
+
+    #shop main .productAndPrice input[type='number'] {
+        width: 16% !important;
+    }
+
+}
+
+/*end 576*/
+
+/*************************/
+
+@media(max-width: 992px) and (min-width: 768px) {
+
+    #shop .horizLigne .shpBtn {
+        left: -84.3% !important;
+    }
+
+    #shop main {
+        margin-top: 40px !important;
+    }
+
+    #shop main .productAndPrice .quantAndPrice ul li p {
+        margin-right: -3vw !important;
+        margin-bottom: 35px !important;
+        width: 51vw !important;
+        word-break: break-word;
+    }
+
+    #shop main .productAndPrice input[type='number'] {
+        width: 10% !important;
+    }
+
+    #shop main .productAndPrice .bottomContent a.shpBtn {
+        margin-top: 1px !important;
+    }
+
+}
+
+/*end 768*/
+
+/*************************/
+
+@media(max-width: 1024px) and (min-width: 992px) {
+
+    #shop .nvb2 {
+        margin-left: -27px !important;
+    }
+
+    #shop .navbar-expand-lg .navbar-nav.nvb2 li span.po::before {
+        left: 60px !important;
+        top: -2px !important;
+    }
+
+    #shop header .welcome {
+        margin: 25px auto 40px !important;
+    }
+
+    #shop .horizLigne .shpBtn {
+        left: -88.3% !important;
+    }
+
+    #shop main {
+        margin-top: 70px !important;
+    }
+
+    #shop main .productAndPrice {}
+
+    #shop main .productAndPrice .quantAndPrice ul li p {
+        margin-right: -8vw !important;
+        word-break: break-word;
+        width: 43vw !important;
+    }
+
+    #shop main .productAndPrice .bottomContent a.shpBtn {
+        margin-top: 1px !important;
+    }
+
+}
+
+/*end 1024*/
+
+/*****************end responsive for the shop page in arabic*******************/
+
+/*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+/*start Sign page*/
+
+#Sign header .upper-bar ul.nvb2 {
+    margin: 0 4% 3.9% 6px !important;
+}
+
+#Sign .nvb2 {
+    margin-left: -16px !important;
+}
+
+#Sign .navbar-expand-lg .navbar-nav.nvb2 li span.po::before {
+    left: 61px !important;
+    top: -2px;
+}
+
+#Sign main.circle .weAreSorry .Sorry a:first-of-type {
+    font-family: cairo-SemiBold !important;
+    font-size: 16px !important;
+}
+
+/*****************start responsive for the Sign page in arabic*******************/
+
+@media (max-width: 576px) {
+
+    #Sign .welcome {
+        margin: 28px auto 28px !important;
+    }
+
+    #Sign main.circle {
+        margin: 4vw 0 5vw !important;
+    }
+
+    #Sign main.circle .weAreSorry .Sorry a:first-of-type {
+        font-size: 4vw !important;
+    }
+
+}
+
+/*end 576*/
+
+/*++++++++++++++++++++++++++*/
+
+@media(max-width: 1024px) and (min-width: 992px) {
+
+    #Sign .nvb2 {
+        margin-left: -27px !important;
+    }
+
+    #Sign .navbar-expand-lg .navbar-nav.nvb2 li span.po::before {
+        left: 60px !important;
+        top: -2px !important;
+    }
+}
+
+/*end 1024*/
+
+/*****************end responsive for the Sign page in arabic*******************/
+
+/*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+/*start order page*/
+
+#order header {
+    height: 225px !important;
+}
+
+#order .nvb2 {
+    margin-left: -16px !important;
+}
+
+#order .navbar-expand-lg .navbar-nav.nvb2 li span.po::before {
+    left: 61px !important;
+    top: -2px;
+}
+
+#order .horizLigne .shpBtn {
+    left: -90.1% !important;
+    top: 28px !important;
+}
+
+#order main {
+    margin-top: 66px !important;
+    margin-bottom: 50px !important;
+}
+
+#order main .productAndPrice {
+    margin-top: 39px;
+}
+
+#order main .productAndPrice .quantAndPrice {
+    text-align: right !important;
+}
+
+#order main .productAndPrice hr {
+    margin-top: .5rem !important;
+}
+
+#order main .productAndPrice .quantAndPrice ul > li i {
+    margin-left: 10px !important;
+}
+
+#order main .productAndPrice .quantAndPrice ul li h5 {
+    margin-left: 0 !important;
+}
+
+#order main .productAndPrice .quantAndPrice ul li span {
+    margin-right: 5px !important;
+}
+
+#order main .productAndPrice .quantAndPrice ul li label {
+    margin-right: 0 !important;
+}
+
+#order main .productAndPrice .quantAndPrice ul li p {
+    margin-bottom: 49px !important;
+    margin-right: 12px !important;
+    font-family: cairo-SemiBold !important;
+    word-break: break-word;
+}
+
+#order main .productAndPrice input[type='number'] {
+    width: 8% !important;
+}
+
+#order main .productAndPrice .productFoto {
+    text-align: right !important;
+}
+
+#order main .productAndPrice .bottomContent a.shpBtn {
+    margin-top: -26px !important;
+}
+
+#order main .productAndPrice .bottomContent {
+    margin-top: 17px !important;
+}
+
+#order main .productAndPrice .bottomContent span {
+    margin-right: 10px !important;
+}
+
+#order main .productAndPrice .bottomContent h5 {
+    margin-right: -5px !important;
+}
+
+#order main .productAndPrice .bottomContent h5 i {
+    margin-left: 10px !important;
+}
+
+#order main .productAndPrice:nth-child(3) .bottomContent {
+    margin-top: -11px !important;
+}
+
+#order main .productAndPrice:nth-child(3) .bottomContent a.shpBtn {
+    margin-top: -11px !important;
+}
+
+#order main .productAndPrice:nth-child(3) hr {}
+
+#order main .productAndPrice:nth-child(3) .text-right {
+    text-align: left!important;
+}
+
+#order main .productAndPrice:nth-child(3) .checkSometing h5 {
+    margin-left: 35px !important;
+}
+
+#order main .productAndPrice:nth-child(3) h5 i {
+    margin-left: 10px !important;
+}
+
+#order main .productAndPrice:nth-child(3) a.contBtn {
+    margin-left: 0 !important;
+    margin-top: 1px !important;
+}
+
+#order main .productAndPrice label {
+    margin-right: 12px !important;
+}
+
+#order main .productAndPrice input[type='checkbox']:checked:after {
+    right: -16px !important;
+}
+
+/*****************start responsive for the order page in arabic*******************/
+
+@media (max-width: 576px) {
+
+    #order header .upper-bar ul.nvb2 {
+        margin: 0 4% 3.9% 6px !important;
+    }
+
+    #order header .welcome {
+        margin: 10px auto 60px !important;
+    }
+
+    #order .horizLigne .shpBtn {
+        left: -64vw !important;
+        top: 30px !important;
+    }
+
+    #order main {
+        margin-bottom: 20px !important;
+    }
+
+    #order main .productAndPrice {
+        padding: 0 10px !important;
+    }
+
+    #order main .productAndPrice .quantAndPrice ul li p {
+        font-size: 3.5vw !important;
+        top: 3px !important;
+        margin-right: 10px !important;
+        margin-bottom: 25px !important;
+    }
+
+    #order main .productAndPrice .row > .offset-md-1 {
+        margin-right: 0 !important;
+    }
+
+    #order main .productAndPrice:nth-child(3) h5 {
+        margin-left: 4vw !important;
+    }
+
+    #order main .productAndPrice label {
+        font-size: 4vw !important;
+        margin-right: 2vw !important;
+    }
+
+    #order main .productAndPrice input[type='checkbox']:checked:after {
+        right: -3.8vw !important;
+    }
+
+    #order main .productAndPrice:nth-child(3) .checkSometing h5 {
+        margin-left: 3vw !important;
+        font-size: 4vw !important;
+    }
+
+    #order main .productAndPrice a.contBtn {
+        font-size: 2vw !important;
+    }
+
+}
+
+/*end 576*/
+
+/*************************/
+
+@media(max-width: 992px) and (min-width: 768px) {
+
+    #order .horizLigne .shpBtn {
+        left: -84.3% !important;
+    }
+
+    #order main {
+        margin-top: 0 !important;
+    }
+
+    #order main .productAndPrice .quantAndPrice ul li p {
+        margin-right: -3vw !important;
+        margin-bottom: 35px !important;
+        width: 51vw !important;
+        word-break: break-word;
+    }
+
+    #order main .productAndPrice input[type='number'] {
+        width: 10% !important;
+    }
+
+}
+
+/*end 768*/
+
+/*************************/
+
+@media(max-width: 1024px) and (min-width: 992px) {
+
+    #order .nvb2 {
+        margin-left: -27px !important;
+    }
+
+    #order .navbar-expand-lg .navbar-nav.nvb2 li span.po::before {
+        left: 60px !important;
+        top: -2px !important;
+    }
+
+    #order header .welcome {
+        margin: 25px auto 40px !important;
+    }
+
+    #order .horizLigne .shpBtn {
+        left: -88.3% !important;
+    }
+
+    #order main {}
+
+    #order main .productAndPrice .quantAndPrice ul li p {
+        margin-bottom: 35px !important;
+        margin-right: -7vw !important;
+        width: 43vw !important;
+        word-break: break-word;
+    }
+
+}
+
+/*end 1024*/
+
+/*****************end responsive for the order page in arabic*******************/
+
+/*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+/*start categories page*/
+
+#categories header .welcome {
+    margin: 31px auto 38px !important;
+}
+
+#categories .nvb2 {
+    margin-left: -16px !important;
+}
+
+#categories .navbar-expand-lg .navbar-nav.nvb2 li span.po::before {
+    left: 61px !important;
+    top: -2px;
+}
+
+#categories .horizLigne .shpBtn {
+    left: -90.1% !important;
+    top: 28px !important;
+}
+
+#categories main {
+    margin-top: 90px !important;
+}
+
+#categories main .paginationPart .row:nth-child(1) {
+    text-align: right!important;
+}
+
+#categories main .paginationPart .row:nth-child(1) a.shpBtn {
+    margin-right: 10px !important;
+}
+
+#categories main .paginationPart .contBtn {
+    margin-left: 10px !important;
+}
+
+#categories main .paginationPart .row .text-right {
+    text-align: left !important;
+}
+
+#categories main .paginationPart .bottomPagination a.page-link {
+    font-family: Cairo-Bold !important;
+}
+
+#categories .paginationPart .bottomPagination nav i.changeToRight:before {
+    content: "\eaa0";
+}
+
+#categories .paginationPart .bottomPagination nav i.changeToLeft:before {
+    content: "\ea9d";
+}
+
+
+/*****************start responsive for the categories page in arabic*******************/
+
+@media (max-width: 576px) {
+
+    #categories header .upper-bar ul.nvb2 {
+
+        margin: 0 4% 3.9% 6px !important;
+    }
+
+    #categories .horizLigne .shpBtn {
+        left: -64vw !important;
+        top: 36px !important;
+    }
+
+    #categories main {
+        margin-top: 40px !important;
+    }
+
+}
+
+/*end 576*/
+
+/*************************/
+
+@media(max-width: 992px) and (min-width: 768px) {
+
+    #categories .horizLigne .shpBtn {
+        left: -84.3% !important;
+    }
+
+    #categories main {
+        margin-top: 65px !important;
+    }
+
+}
+
+/*end 768*/
+
+/*************************/
+
+@media(max-width: 1024px) and (min-width: 992px) {
+
+    #categories .nvb2 {
+        margin-left: -27px !important;
+    }
+
+    #categories .navbar-expand-lg .navbar-nav.nvb2 li span.po::before {
+        left: 60px !important;
+        top: -2px !important;
+    }
+
+    #categories .horizLigne .shpBtn {
+        left: -88.3% !important;
+    }
+
+    #categories main {
+        margin-top: 65px !important;
+    }
+
+}
+
+/*end 1024*/
+
+/*****************end responsive for the categories page in arabic*******************/
+
+/*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+/*start subcategory page*/
+
+#subcategory .nvb2 {
+    margin-left: -16px !important;
+}
+
+#subcategory .navbar-expand-lg .navbar-nav.nvb2 li span.po::before {
+    left: 61px !important;
+    top: -2px;
+}
+
+#subcategory .horizLigne .shpBtn {
+    left: -90.1% !important;
+    top: 28px !important;
+}
+
+#subcategory main {
+    margin-top: 55px !important;
+}
+
+#subcategory main .paginationPart .row:nth-child(1) {
+    text-align: right!important;
+}
+
+#subcategory main .paginationPart .row:nth-child(1) a.shpBtn {
+    margin-right: 13px !important;
+}
+
+#subcategory main .paginationPart .contBtn {
+    margin-left: 13px !important;
+}
+
+#subcategory main .paginationPart .row .text-right {
+    text-align: left !important;
+}
+
+#subcategory main .productAndPrice .similar .similarInfo::after {
+    right: 130px !important;
+}
+
+#subcategory main .ourTeamInfo a.shpBtn {
+    margin-right: 40px !important;
+}
+
+#subcategory main .ourTeamInfo a.contBtn {
+    margin-right: 0 !important;
+}
+
+#subcategory main .ourTeamInfo a:last-of-type i {
+    margin-left: 10px !important;
+}
+
+#subcategory .ourTeamInfo a:last-of-type {
+    font-size: 17px !important;
+}
+
+#subcategory .paginationPart .bottomPagination nav i.changeToRight:before {
+    content: "\eaa0";
+}
+
+#subcategory .paginationPart .bottomPagination nav i.changeToLeft:before {
+    content: "\ea9d";
+}
+
+/*****************start responsive for the subcategory page in arabic*******************/
+
+@media (max-width: 576px) {
+
+    #subcategory header .upper-bar ul.nvb2 {
+        margin: 0 4% 3.9% 6px !important;
+    }
+
+    #subcategory .horizLigne .shpBtn {
+        left: -64vw !important;
+        top: 50px !important;
+    }
+
+    #subcategory main {
+        margin-top: 0 !important;
+    }
+
+    #subcategory main .ourTeamInfo {
+        margin-bottom: 17px !important;
+    }
+
+    #subcategory main .paginationPart {
+        margin-top: 0 !important;
+        margin-bottom: 3px !important;
+    }
+
+    #subcategory main .paginationPart .bottomPagination {
+        margin-bottom: 0 !important;
+    }
+
+    #subcategory main .paginationPart .contBtn {
+        margin-right: 4px !important;
+    }
+
+    #subcategory footer {
+        margin-top: 0 !important;
+        padding-top: 20px !important;
+    }
+
+}
+
+/*end 576*/
+
+/*************************/
+
+@media(max-width: 992px) and (min-width: 768px) {
+
+    #subcategory .horizLigne .shpBtn {
+        left: -84.3% !important;
+        top: 30px !important;
+    }
+
+    #subcategory main {
+        margin-top: 40px !important;
+    }
+
+}
+
+/*end 768*/
+
+/*************************/
+
+@media(max-width: 1024px) and (min-width: 992px) {
+
+    #subcategory .nvb2 {
+        margin-left: -27px !important;
+    }
+
+    #subcategory .navbar-expand-lg .navbar-nav.nvb2 li span.po::before {
+        left: 60px !important;
+        top: -2px !important;
+    }
+
+    #subcategory .horizLigne .shpBtn {
+        left: -88.3% !important;
+    }
+
+    #subcategory main {
+        margin-top: 40px !important;
+    }
+
+}
+
+/*end 1024*/
+
+/*****************end responsive for the subcategory page in arabic*******************/
+
+/*%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%555*/
+
+/*there is a something editalbe today*/
+
+.navbar-expand-lg .navbar-nav.nvb2 li.searchInpt span {
+    right: 27px !important;
+    top: 0px !important;
+}
+
+/*style the second ul*/
+
+.nvb2 {
+    margin-left: -28px !important;
+}
+
+.navbar-expand-lg .navbar-nav .nav-item.secondDrop .dropdown-menu {
+    right: 27px;
+    padding: 0 10px !important;
+}
+
+.navbar-expand-lg .navbar-nav .nav-item.secondDrop .dropdown-menu .dropdown-item {
+    padding: 10px 0 !important;
+}
+
+.navbar-expand-lg .navbar-nav .nav-item.secondDrop i.RA {
+    margin-left: 7px;
+    margin-right: 0;
+    vertical-align: bottom;
+}
+
+/*style the second ul*/
+
+@media (max-width: 576px) {
+
+    .navbar-expand-lg .navbar-nav .secondDrop {
+        width: 95%;
+    }
+
+    .navbar-light .navbar-nav .nav-link {
+        margin-right: 40px !important;
+    }
+
+    .navbar-light .navbar-nav .secondDrop .nav-link {
+        margin-right: 0 !important;
+    }
+    .navbar-expand-lg .navbar-nav.nvb2 li.searchInpt span {
+        right: 0px !important;
+        top: 6px !important;
+    }
+
+    .navbar-expand-lg .navbar-nav.nvb2 li i.icofont-shopping-cart {
+        margin-left: 3px !important;
+    }
+
+}
+
+@media (max-width: 991px) and (min-width: 768px) {
+
+    /*style the second ul*/
+    .nvb2 {}
+
+    .navbar-expand-lg .navbar-nav .nav-item.secondDrop .dropdown-menu {
+        min-width: 9rem;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-item.secondDrop .dropdown-menu {
+        right: 27px;
+        padding: 0 10px !important;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-item.secondDrop .dropdown-menu .dropdown-item {
+        padding: 10px 0 !important;
+    }
+
+    .navbar-expand-lg .navbar-nav .nav-item.secondDrop i.RA {
+        margin-left: 7px;
+        margin-right: 0;
+        vertical-align: bottom;
+    }
+
+    /*style the second ul*/
+    .navbar-light .navbar-nav .nav-link {
+        margin-right: 40px !important;
+    }
+
+    .navbar-light .navbar-nav .secondDrop .nav-link {
+        margin-right: 0 !important;
+    }
+
+    .navbar-expand-lg .navbar-nav.nvb2 li.searchInpt span {
+        right: 0px !important;
+        top: 4px !important;
+    }
+
+    .navbar-expand-lg .navbar-nav.nvb2 li i.icofont-shopping-cart {
+        margin-left: 3px !important;
+    }
+
+    header .upper-bar ul.nvb2 li:nth-child(3) i.icofont-search {
+        /*        margin-left: -7px !important;*/
+    }
+
+    header .upper-bar ul.nvb2 li:nth-child(4) i.icofont-shopping-cart {
+        margin-left: 2px !important;
+    }
+
+}
+
+/*+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
+
+/*start orderSum page*/
+
+#orderSum header {
+    height: 225px !important;
+}
+
+#orderSum .nvb2 {
+    margin-left: -16px !important;
+}
+
+#orderSum .navbar-expand-lg .navbar-nav.nvb2 li span.po::before {
+    left: 61px !important;
+    top: -2px;
+}
+
+#orderSum .horizLigne .shpBtn {
+    left: -90.1% !important;
+    top: 28px !important;
+}
+
+#orderSum main {
+    margin-top: 66px !important;
+}
+
+#orderSum main .productAndPrice {
+    margin-top: 39px;
+}
+
+#orderSum main .productAndPrice .quantAndPrice {
+    text-align: right !important;
+}
+
+#orderSum main .productAndPrice hr {
+    margin-top: .5rem !important;
+}
+
+#orderSum main .productAndPrice .quantAndPrice ul > li i {
+    margin-left: 10px !important;
+}
+
+#orderSum main .productAndPrice .quantAndPrice ul li h5 {
+    margin-left: 0 !important;
+}
+
+#orderSum main .productAndPrice .quantAndPrice ul li span {
+    margin-right: 5px !important;
+}
+
+#orderSum main .productAndPrice .quantAndPrice ul li label {
+    margin-right: 0 !important;
+}
+
+#orderSum main .productAndPrice .quantAndPrice ul li p {
+    margin-bottom: 49px !important;
+    margin-right: 12px !important;
+    font-family: cairo-SemiBold !important;
+    word-break: break-word;
+}
+
+#orderSum main .productAndPrice input[type='number'] {
+    width: 8% !important;
+}
+
+#orderSum main .productAndPrice .productFoto {
+    text-align: right !important;
+}
+
+#orderSum main .productAndPrice .bottomContent a.shpBtn {
+    margin-top: -26px !important;
+}
+
+#orderSum main .productAndPrice .bottomContent {
+    margin-top: 17px !important;
+}
+
+#orderSum main .productAndPrice .bottomContent span {
+    margin-right: 10px !important;
+}
+
+#orderSum main .productAndPrice .bottomContent h5 {
+    margin-right: -5px !important;
+}
+
+#orderSum main .productAndPrice .bottomContent h5 i {
+    margin-left: 10px !important;
+}
+
+#orderSum main .productAndPrice:nth-child(3) .bottomContent {
+    margin-top: -11px !important;
+}
+
+#orderSum main .productAndPrice:nth-child(3) .bottomContent a.shpBtn {
+    margin-top: -11px !important;
+}
+
+#orderSum main .productAndPrice:nth-child(3) hr {}
+
+#orderSum main .productAndPrice:nth-child(3) .text-right {
+    text-align: left!important;
+}
+
+#orderSum main .productAndPrice:nth-child(3) .checkSometing h5 {
+    margin-left: 35px !important;
+}
+
+#orderSum main .productAndPrice:nth-child(3) h5 i {
+    margin-left: 10px !important;
+}
+
+#orderSum main .productAndPrice:nth-child(3) a.contBtn {
+    margin-left: 0 !important;
+    margin-top: 1px !important;
+}
+
+#orderSum main .productAndPrice label {
+    margin-right: 12px !important;
+}
+
+#orderSum main .productAndPrice input[type='checkbox']:checked:after {
+    right: -16px !important;
+}
+
+#orderSum .payment .row {
+    text-align: right;
+}
+
+#orderSum .payment h2 {
+    padding-right: 30px !important;
+}
+
+#orderSum .review .row {
+    text-align: right;
+}
+
+/*****************start responsive for the orderSum page in arabic*******************/
+
+@media (max-width: 576px) {
+
+    #orderSum header .upper-bar ul.nvb2 {
+        margin: 0 4% 3.9% 6px !important;
+    }
+
+    #orderSum header .welcome {
+        margin: 10px auto 60px !important;
+    }
+
+    #orderSum .horizLigne .shpBtn {
+        left: -61vw !important;
+        top: 30px !important;
+        width: 17vw;
+        height: 8vw;
+        line-height: 10vw;
+    }
+
+    #orderSum main {
+        margin-bottom: 20px !important;
+    }
+
+    #orderSum main .productAndPrice {
+        padding: 0 10px !important;
+    }
+
+    #orderSum main .productAndPrice .quantAndPrice ul li p {
+        font-size: 3.5vw !important;
+        top: 3px !important;
+        margin-right: 10px !important;
+        margin-bottom: 25px !important;
+    }
+
+    #orderSum main .productAndPrice .row > .offset-md-1 {
+        margin-right: 0 !important;
+    }
+
+    #orderSum main .productAndPrice:nth-child(3) h5 {
+        margin-left: 4vw !important;
+    }
+
+    #orderSum main .productAndPrice label {
+        font-size: 4vw !important;
+        margin-right: 2vw !important;
+    }
+
+    #orderSum main .productAndPrice input[type='number'] {
+        width: 17% !important;
+    }
+
+
+    #orderSum main .productAndPrice input[type='checkbox']:checked:after {
+        right: -3.8vw !important;
+    }
+
+    #orderSum main .productAndPrice:nth-child(3) .checkSometing h5 {
+        margin-left: 3vw !important;
+        font-size: 4vw !important;
+    }
+
+    #orderSum main .productAndPrice a.contBtn {
+        font-size: 2vw !important;
+    }
+
+}
+
+/*end 576*/
+
+/*************************/
+
+@media(max-width: 992px) and (min-width: 768px) {
+
+    #orderSum .payment .container .row .col-md:last-child .row {
+        padding-right: 20px !important;
+        padding-left: 0px !important;
+    }
+
+    #orderSum .horizLigne .shpBtn {
+        left: -84.3% !important;
+    }
+
+    #orderSum main {
+        margin-top: 0 !important;
+    }
+
+    #orderSum main .productAndPrice .quantAndPrice ul li p {
+        margin-right: -3vw !important;
+        margin-bottom: 35px !important;
+        width: 51vw !important;
+        word-break: break-word;
+    }
+
+    #orderSum main .productAndPrice input[type='number'] {
+        width: 10% !important;
+    }
+
+    #orderSum .payment h2 {
+        font-size: 21px;
+        padding-left: 10px !important;
+    }
+
+}
+
+/*end 768*/
+
+/*************************/
+
+@media(max-width: 1024px) and (min-width: 992px) {
+
+    #orderSum .nvb2 {
+        margin-left: -27px !important;
+    }
+
+    #orderSum .navbar-expand-lg .navbar-nav.nvb2 li span.po::before {
+        left: 60px !important;
+        top: -2px !important;
+    }
+
+    #orderSum header .welcome {
+        margin: 25px auto 40px !important;
+    }
+
+    #orderSum .horizLigne .shpBtn {
+        left: -88.3% !important;
+    }
+
+    #orderSum main .productAndPrice .quantAndPrice ul li p {
+        margin-bottom: 35px !important;
+        margin-right: -7vw !important;
+        width: 43vw !important;
+        word-break: break-word;
+    }
+
+    #orderSum .payment h2 {
+        font-size: 21px;
+        padding-left: 10px !important;
+    }
+
+}
+
+/*end 1024*/
+
+/*****************end responsive for the orderSum page in arabic*******************/
+
+/***********************************THE END*******************/
