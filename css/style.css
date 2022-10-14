@@ -1,4 +1,4 @@
-*,
+ *,
 ::after,
 ::before {
     margin: 0;
@@ -1124,12 +1124,12 @@ footer .SM:hover {
 
     .bg-light {
         background-color: transparent !important;
-        /*        z-index: 5;*/
-        top: -37px;
+        top: -65px;
     }
 
     header .upper-bar .fl .logo {
-        margin-top: 5px;
+        position: relative;
+        z-index: 2555555;
     }
 
     header .upper-bar .fl .lang {
@@ -1146,12 +1146,12 @@ footer .SM:hover {
         outline: none !important;
         left: 97% !important;
         position: relative;
-        top: -20px;
+        /* top: -20px; */
     }
 
     .navbar-expand-lg .navbar-collapse {
         background-color: #fff;
-        margin-top: 3vh;
+        margin-top: 50px;
     }
 
     header .upper-bar ul {
@@ -1183,7 +1183,7 @@ footer .SM:hover {
     }
 
     header .sclinks {
-        margin-top: 0;
+        margin-top: 40px !important;
     }
 
     header .sclinks ul {
@@ -2067,15 +2067,17 @@ main .paginationPart .bottomPagination .icofont-rounded-left {
 @media (max-width: 576px) {
 
     #subcategory header .welcome {
-        margin: 15px auto 26px;
+        margin: 15px auto 0;
     }
 
     #subcategory header .sclinks {
-        margin-top: 20px;
+        margin-top: 9px !important;
     }
 
     #subcategory .horizLigne .shpBtn {
-        top: 50px;
+        position: relative;
+        z-index: 8;
+        top: 62px;
         height: 8vw;
         width: 16vw;
         font-size: 2.5vw;
@@ -2090,7 +2092,7 @@ main .paginationPart .bottomPagination .icofont-rounded-left {
     }
 
     #subcategory header .sclinks ul {
-        margin-top: 0;
+        margin-top: 20px;
     }
 
     #subcategory main {
@@ -2465,7 +2467,7 @@ textarea {
     }
 
     #contact header .welcome {
-        margin: 25px auto 70px;
+        margin: 15px auto 0;
     }
 
     #contact .horizLigne .shpBtn {
@@ -2719,6 +2721,10 @@ main .productAndPrice i {
     margin-top: 39px;
 }
 
+#shop main .productAndPrice li div {
+    display: flex;
+}
+
 main .productAndPrice h5 {
     display: inline-block;
     color: #47809c;
@@ -2819,16 +2825,17 @@ main .productAndPrice a.contBtn {
     }
 
     #shop header .welcome {
-        margin: 23px auto 40px;
+        margin: 15px auto 0;
     }
 
     #shop .horizLigne .shpBtn {
         position: relative;
-        top: 41px;
+        top: 80px;
         width: 16vw;
         height: 8vw;
         font-size: 2.3vw;
         line-height: 10vw;
+        z-index: 8;
     }
 
     #shop header .sclinks ul {
@@ -3289,16 +3296,17 @@ input[type=number]:hover::-webkit-outer-spin-button {
     }
 
     #Sub header .welcome {
-        margin: 0px auto 70px;
+        margin: 15px auto 0;
     }
 
     #Sub .horizLigne .shpBtn {
         position: relative;
-        top: 40px;
+        top: 80px;
         width: 16vw;
         height: 8vw;
         font-size: 2.3vw;
         line-height: 10vw;
+        z-index: 8;
     }
 
     #Sub header .sclinks ul {
@@ -3784,6 +3792,10 @@ main.circle .weAreSorry .Sorry .shpBtn {
     margin-top: 0;
 }
 
+#order main .productAndPrice li div {
+    display: flex;
+}
+
 #order main .productAndPrice:nth-child(3) .bottomContent {
     margin-top: 41px;
 }
@@ -3796,6 +3808,10 @@ main.circle .weAreSorry .Sorry .shpBtn {
 /*********************start responsive for order page*****************************/
 
 @media (max-width: 576px) {
+
+    #order header .sclinks {
+        margin-top: 0 !important;
+    }
 
     #order header .welcome {
         margin: 23px auto 50px;
@@ -4106,7 +4122,7 @@ main.circle .weAreSorry .Sorry .shpBtn {
 @media (max-width: 576px) {
 
     #Signup .upper-bar {
-        border-bottom: none !important;
+        /* border-bottom: none !important; */
     }
 
     #Signup main.circle {
@@ -4461,6 +4477,10 @@ ul.nvb2 {
     margin-top: 31px;
 }
 
+#orderSum main .productAndPrice li div {
+    display: flex;
+}
+
 #orderSum main .productAndPrice .quantAndPrice ul li p {
     margin-bottom: 25px;
 }
@@ -4533,6 +4553,15 @@ ul.nvb2 {
 /*********************start responsive for orderSum page*****************************/
 
 @media (max-width: 576px) {
+
+    #orderSum header .sclinks {
+        margin-top: 10px !important;
+    }
+
+    #orderSum .horizLigne .shpBtn {
+        top: 42px;
+        z-index: 8;
+    }
 
     #orderSum main .productAndPrice input[type='number'] {
         width: 15%;
